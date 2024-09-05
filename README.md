@@ -63,6 +63,12 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
+![alt text](i.png)
+
+
+![alt text](<image copy.png>)
+
+
 ![alt text](image.png)
 
 

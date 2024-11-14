@@ -8,11 +8,15 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Add intercept: Add a column of ones to the input features for the intercept term.
 
+2.Initialize parameters: Set initial values of parameters (theta) to zero.
+
+3.Compute predictions: Multiply features by theta to calculate predictions.
+
+4.Calculate errors: Compute the difference between predictions and actual values.
+
+5.Update parameters: Adjust theta by moving in the opposite direction of the gradient to minimize the error.
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
